@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real Editor
 
 **Real Editor** is a powerful Arabic text editor designed for text processing and storage. Built using Java 1.8, it provides users with robust features to manage and analyze Arabic text. The editor integrates seamlessly with MariaDB for file storage and supports a wide array of text processing functionalities.
@@ -37,3 +38,6 @@ For detailed instructions, usage guidelines, and a comprehensive feature report,
 - **Report**: [View Report](https://drive.google.com/drive/folders/185O5gpF0_EKI380CtnB6A0AK-Tph2Uz-?usp=sharing)
 
 ---
+=======
+# SoftwareTesting-TextEditor-QA
+>>>>>>> 83a08689da8826d425268e7c3928f1fbbd356514
